@@ -1,0 +1,17 @@
+.active {
+  color: #55d6af;
+  font-size: 15px;
+  text-decoration: underline;
+  font-weight: bold;
+ 
+  margin-right: 35px;
+  
+}
+
+.default {
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+  margin-right: 35px;
+}
